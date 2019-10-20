@@ -1,91 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shayan Fouladi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shayan Fouladi
+Software Developer, tech enthusiast, armature guitar player.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="efouladi@gmx.com">efouladi@gmx.com</a>
+| github.com/efouladi
+| +46 72-546 99 90
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building foundations of modern scalable banking at <a href="https://www.klarna.com">Klarna Bank</a>
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Building functional software using tools such as: Clojure, Javascript, Java, C#, git, GNU/Linux...
+- Deploying and running Software on Amazon Web Services
+- Human to human interaction
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Functional Programming, Web Technologies, Digital Physics, Cosmology, Evolutionary Psychology, AI, Blues Music
 
 
 ## Education
+`2009 - 2014`
+__Linköping University, Sweden__
+- Master's Degree, Information Technology
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2004 - 2008`
+__<a href="https://iasbs.ac.ir">IASBS</a>, Zanjan - Iran__
+- Bachelor's degree, Information Technology
 
 
+## Work Experience
 
-## Awards
+`Dec 2017 - now`
+__Klarna Bank - Stockholm, Sweden__
+- Software Developer
 
-`2012`
-President, *Royal Society*, London, UK
+Developing fintech on top of Amazon web services
 
-Associate, *French Academy of Science*, Paris, France
+`Jan 2015 - Dec 2017`
+__Attentec AB - Stockholm, Sweden__
+- Software Consultant
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Worked on a number of different projects ranging from Desktop applications to
+large-scaled web applications as a full-stack developer
 
 
-## Occupation
+`Aug 2014 - Nov 2014`
+__Linköping University, Sweden__
+- IT Administrator
 
-`1600`
-__Royal Mint__, London
+Installation and maintenance of Linux Server/Desktop Machines as well as
+networking equipments on a daily basis.
 
-- Warden
-- Minted coins
+`Jan 2013 - Jun 2013`
+__Linköping University, Sweden__
+- Computer Lab Assistant
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Worked as a Lab assistant for web programming courses
 
+`Apr 2012 - Sep 2012`
+__Combitech AB - Linköping, Sweden__
+- Software Developer
+
+Worked on an Enterprise Document Management System developed in
+C# .NET
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: October 2019 -->
